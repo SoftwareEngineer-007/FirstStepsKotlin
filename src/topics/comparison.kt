@@ -10,5 +10,5 @@ fun main() {
 
 }
 
-const val AGE_OF_MAJORITY = 18
+// const val AGE_OF_MAJORITY = 18
 const val RETIREMENT_AGE = 65
